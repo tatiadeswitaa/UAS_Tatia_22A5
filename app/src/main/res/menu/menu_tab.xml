@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tab_action"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="Action"/>
+
+    <item
+        android:id="@+id/tab_comedy"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="Comedy"/>
+
+    <item
+        android:id="@+id/tab_romance"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="Romance"/>
+</menu>

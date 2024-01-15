@@ -1699,8 +1699,6 @@ Set in 1999 and 2019, it takes the audience on Bo-ra's emotional journey full of
 </menu>
 Hasil Program Tugas 3 :
 
-WhatsApp Image 2024-01-15 at 21 20 53
-
 Tugas 3
  
 
